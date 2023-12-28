@@ -1,0 +1,12 @@
+1. Все ссылки размещаются в файлах structure.js и employee.js
+2. Все ссылки на сотрудников размещаются в employee.js, ссылки на структурные подразделения в structure.js 
+3. Ссылки заполняются через enter,без иных знаком препинания 
+3. Пример :
+export let structure = 
+`
+https://run.mocky.io/v3/6011a8d7-c02b-4ce0-8c09-67ba74428e22
+https://run.mocky.io/v3/6011a8d7-c02b-4ce0-8c09-67ba74428e22
+https://run.mocky.io/v3/6011a8d7-c02b-4ce0-8c09-67ba74428e22
+https://run.mocky.io/v3/6011a8d7-c02b-4ce0-8c09-67ba74428e22
+https://run.mocky.io/v3/6011a8d7-c02b-4ce0-8c09-67ba74428e22
+`
